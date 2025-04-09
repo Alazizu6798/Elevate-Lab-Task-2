@@ -2,11 +2,15 @@
 # Overview 
 - Create visualizations that convey a compelling story
 
+## DataSet Used 
+ - <a href="https://github.com/Alazizu6798/Elevate-Lab-Task-2/blob/main/SuperStore%20Sales%20DataSet.xlsx">View Dataset</a>
+
 # Process
 
 - Dashboard Creation: The first step involved identifying key performance indicators (KPIs) and designing an intuitive and visually appealing dashboard. Interactive visualizations and filtering capabilities were added to allow users to explore the data at various levels of granularity.
 - Data Analysis: Valuable insights were provided to business entities regarding the effectiveness of their sales strategies through visualization and charts. Analysis of historical data helped in understanding sales trends and identifying areas for improvement.
 - Sales Forecasting: Historical data was leveraged, and time series analysis techniques were applied to generate sales forecasts for the next 15 days. This forecasting aids in proactive decision-making and resource allocation.
+- Dashboard Interaction <a href="https://github.com/Alazizu6798/Elevate-Lab-Task-2/blob/main/Task%202.pbix">View Dashboard</a>
 
 # Key Insights
 
@@ -20,6 +24,10 @@
 - Sales Trends: A dip in April, strong year-end - Areas for optimization.
 - Shipping Preferences: Most prefer Standard Class - Guiding shipping strategies.
 - Forecast: Next 15 days avg. sale $5,304 - Preparing for what lies ahead.
+
+# Dashboard
+![Screenshot(495)](https://github.com/Alazizu6798/Elevate-Lab-Task-2/blob/main/Screenshot%202025-04-09%20210554.png)
+![Screenshot(495)](https://github.com/Alazizu6798/Elevate-Lab-Task-2/blob/main/Screenshot%202025-04-09%20210612.png)
 
 # Project Learnings
 
